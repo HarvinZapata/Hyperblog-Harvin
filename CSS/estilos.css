@@ -1,6 +1,6 @@
 body 
 {
-    color: red;
+    color: #333;
     text-align: left;
     font-size: 16px;
     font-family: Arial;
@@ -43,4 +43,6 @@ body
 {
     background: #777;
     color: white;
+    text-align: center;
+    padding: 00.5em;
 }
